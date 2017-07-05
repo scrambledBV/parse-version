@@ -5,7 +5,7 @@ Takes a version in a format produced by NPM (e.g. `"1.9.4"`) and returns an obje
 ```javascript
 {
   major: 1,
-  minot: 9,
+  minor: 9,
   patch: 4
 }
 ```
