@@ -1,6 +1,6 @@
 {
   "name": "@scrambled/parse-version",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Takes a version in an NPM format and returns an object",
   "main": "built/index.js",
   "scripts": {
