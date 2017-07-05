@@ -4,7 +4,7 @@
 
 source ./scripts/common.sh
 
-# nodemon src/start.js
+scripts/clean
 chokidar \
   "src/**/*" \
   --initial \
