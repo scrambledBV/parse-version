@@ -1,0 +1,10 @@
+revision.txt
+node_modules/
+bower_components/
+src/
+scripts/
+wiki/
+npm-debug.log
+*.sublime-workspace
+.DS_Store
+.idea/
