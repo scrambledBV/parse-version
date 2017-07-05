@@ -1,6 +1,7 @@
 **TODO:**
 
 - [ ] List changes in [Changelog](./CHANGELOG.md)
+- [ ] Add / update [test cases](./src/test.js)
 
 **PR's intention:**
 
