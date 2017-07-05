@@ -6,15 +6,17 @@ The format is based on [Keep a Changelog][] and this project adheres to [Semanti
 
 ## [Unreleased]
 
+## [1.0.2] - 2017-07-05
+
+### Fixed
+- Typo in readme
+
 ## [1.0.1] - 2017-07-05
 
 ### Added
 - Initial import of the code
 
-## [1.0.2] - 2017-07-05
 
-### Fixed
-- Typo in readme
 
 [Semantic Versioning]: http://semver.org/spec/v2.0.0.html
 [Keep a Changelog]: (http://keepachangelog.com/en/1.0.0/
