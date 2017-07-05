@@ -6,15 +6,20 @@ The format is based on [Keep a Changelog][] and this project adheres to [Semanti
 
 ## [Unreleased]
 
+## [1.0.3] - 2017-07-05
+
+### Fixed
+- clean script not being executed @lzrski
+
 ## [1.0.2] - 2017-07-05
 
 ### Fixed
-- Typo in readme
+- Typo in readme @lzrski
 
 ## [1.0.1] - 2017-07-05
 
 ### Added
-- Initial import of the code
+- Initial import of the code @lzrski
 
 
 
