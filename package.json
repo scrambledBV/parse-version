@@ -1,7 +1,7 @@
 {
-  "name": "atml-assortment-check",
+  "name": "@scrambled/parse-version",
   "version": "1.0.0",
-  "description": "Check if assortment of retailers was recently updated",
+  "description": "Takes a version in an NPM format and returns an object",
   "main": "built/index.js",
   "scripts": {
     "debug": "scripts/debug",
