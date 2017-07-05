@@ -1,0 +1,11 @@
+#! /usr/bin/env bash
+
+# Start development loop - watch and rebuild, etc.
+
+source ./scripts/common.sh
+
+# nodemon src/start.js
+chokidar \
+  "src/**/*" \
+  --initial \
+  --command "scripts/build; scripts/test"

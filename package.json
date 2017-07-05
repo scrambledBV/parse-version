@@ -1,0 +1,22 @@
+{
+  "name": "atml-assortment-check",
+  "version": "1.0.2",
+  "description": "Check if assortment of retailers was recently updated",
+  "main": "built/index.js",
+  "scripts": {
+    "debug": "scripts/debug",
+    "develop": "scripts/develop",
+    "test": "scripts/test",
+    "prepare": "scripts/prepare"
+  },
+  "repository": "https://github.com/scrambledBV/parse-version.git",
+  "author": "Tadeusz Lazurski <tadeusz@scrambled.com>",
+  "license": "BSD-3-Clause",
+  "dependencies": {},
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "chokidar-cli": "^1.2.0",
+    "eslint": "^3.19.0",
+    "mocha": "^3.3.0"
+  }
+}

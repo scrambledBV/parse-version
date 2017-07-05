@@ -1,0 +1,8 @@
+#! /usr/bin/env bash
+
+source "./commno.sh"
+
+mkdir -p "built"
+
+# Copy JS sources verbatim
+cp -r src/* built/

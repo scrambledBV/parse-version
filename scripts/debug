@@ -1,0 +1,7 @@
+#! /usr/bin/env bash
+
+# Start development loop with inspector breaking on first statement
+
+source "./scripts/common.sh"
+
+mocha --inspect-brk built/test.js

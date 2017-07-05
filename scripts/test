@@ -1,0 +1,7 @@
+#! /usr/bin/env bash
+
+# This shell script will run tests. It should be executed after build.
+
+source ./scripts/common.sh
+
+mocha built/test.js

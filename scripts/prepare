@@ -1,0 +1,7 @@
+#! /usr/bin/env bash
+
+source "./commno.sh"
+
+scripts/clean
+scripts/build
+scripts/test
